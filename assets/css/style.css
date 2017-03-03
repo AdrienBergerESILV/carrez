@@ -1,0 +1,56 @@
+body {
+      background: dimgray;
+      color: white;
+      padding: 50px;
+ }
+
+ button {
+ 	color: green;
+ 	border-radius: 20px;
+ 	width:75px;
+ 	font-size:12px;
+ 	font-weight: 80;
+ 	line-height: 10px;
+ 	padding: 10px;
+ 	margin-bottom : 10px;
+ }
+ .field 
+ {
+ 	border-radius: 52px;
+ }
+ .deal{
+ 	color:black;
+ 	max-width:240px;
+ 	height: 215px;
+ 	margin:10px;
+ }
+ 
+ .bien{
+ 	max-width:240px;
+ 	margin:10px;
+ 	height: 280px;
+ }
+ 
+ h2{
+ 	color:black;
+ 	font-size:80px;
+ 	font-weight: 500;
+ }
+ 
+ 
+ button:hover{
+ 	background-color: green;
+ 	color: black;
+ 	border: 4px white;
+ }
+ 
+ input[type=text ]{
+ 	width: 240px;
+ 	margin : 10px;
+ 	padding: 4px;
+ } 
+
+ footer
+ {
+ 	margin-left: 70em;
+ }
